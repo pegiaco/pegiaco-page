@@ -2586,8 +2586,6 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
-	.circular--square { border-radius: 50%; }
-
 /* Image */
 
 	.image {
